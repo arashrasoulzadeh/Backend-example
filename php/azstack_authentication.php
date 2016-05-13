@@ -1,7 +1,7 @@
 <?php
 
 //App: Test and document, appID: 26870527d2ac628002dda81be54217cf
-//Important: change $secretCode, $privateKey value (go to: https://developers.azstack.co, menu: Keys)
+//Important: change $secretCode, $privateKey value (go to: https://developers.azstack.co, choose your app, click menu: Keys)
 
 $secretCode = 'f0d1ba666tttbed3';
 $privateKey = 'MIIEwAIBADANBgkqhkiG9w0BAQEFAASCBKowggSmAgEAAoIBAQCr2zjTtCQyJmRc
