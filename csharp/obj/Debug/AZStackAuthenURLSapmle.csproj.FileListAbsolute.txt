@@ -1,0 +1,4 @@
+C:\Users\Duong Dragon\Desktop\AZStackAuthenURLSapmle\AZStackAuthenURLSapmle\bin\AZStackAuthenURLSapmle.dll
+C:\Users\Duong Dragon\Desktop\AZStackAuthenURLSapmle\AZStackAuthenURLSapmle\bin\AZStackAuthenURLSapmle.pdb
+C:\Users\Duong Dragon\Desktop\AZStackAuthenURLSapmle\AZStackAuthenURLSapmle\obj\Debug\AZStackAuthenURLSapmle.dll
+C:\Users\Duong Dragon\Desktop\AZStackAuthenURLSapmle\AZStackAuthenURLSapmle\obj\Debug\AZStackAuthenURLSapmle.pdb
